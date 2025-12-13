@@ -1,0 +1,22 @@
+# Virtual environments (DO NOT PUSH)
+retail_ops_env/
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+
+
+
