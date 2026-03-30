@@ -45,16 +45,12 @@ https://www.linkedin.com/feed/update/urn:li:activity:7405919255541514240/
 ## Screenshots
 
 ### Dashboard Overview  
-![Dashboard](assets/dashboard.png)
+<img width="1430" height="814" alt="Screenshot 2026-03-30 at 2 14 04 PM" src="https://github.com/user-attachments/assets/2fba7749-5248-4f9c-a195-001f4b9afd7e" />
 
-### Sales Trends  
-![Sales](assets/sales.png)
+### Chatbot Overview
 
-### Customer Segmentation  
-![Segmentation](assets/segmentation.png)
+<img width="1440" height="800" alt="Screenshot 2026-03-30 at 2 17 27 PM" src="https://github.com/user-attachments/assets/f8d6959c-4a69-4f7a-93c2-746c8d975bc7" />
 
-### Inventory Insights  
-![Inventory](assets/inventory.png)
 
 ---
 
